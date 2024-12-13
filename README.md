@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="left">Let’s Network and Innovate!</h2>
+<h2 align="left">Let’s Network, Innovate, and Create Together!</h2>
 
 ###
 
