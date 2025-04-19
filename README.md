@@ -52,7 +52,7 @@
   <a href="https://linkedin.com/in/sohelansarii" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img width="12" />
+  
   <a href="https://codepen.io/sohel22z/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
